@@ -1,2 +1,0 @@
-# Razdoburdin
-tasks for kurator
